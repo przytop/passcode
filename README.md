@@ -4,11 +4,11 @@
 A PassCode is a simple password manager with GUI to securely manage and store passwords to your websites. Uses a built-in generator to generate strong passwords and secure them encrypted in MySQL database
 
 ## Features
-- Intuitive, simple UI created with PySimpleGUI module
-- Easily generate a strong password for your use
+- Simple, intuitive user interface created with PySimpleGUI module
+- Easily generate a strong password for your use everywhere
 - Fast copy password or your emial to your clipboard with one click
 - Store your entries encrypted in MySQL database whit Fernet - symmetric encryption
-- Require a Master Password, hashed with argon2id, to access in to the manager, created when you install manager
+- Requires a Master Password, hashed with argon2id, to access into the manager
 
 ## Requirements
 - Python3
@@ -26,7 +26,7 @@ A PassCode is a simple password manager with GUI to securely manage and store pa
 ### Step 1: Clone project
 
 ```
-git clone
+git clone https://github.com/przytop/passcode
 ```
 
 ### Step 2: Libraries
