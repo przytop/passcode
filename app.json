@@ -1,0 +1,7 @@
+{
+  "name": "PassCode",
+  "description": "Password Manager",
+  "repository": "https://github.com/przytop/passcode",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
