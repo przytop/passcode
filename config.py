@@ -8,8 +8,8 @@ def connect():
     # Connect to database
     try:
         connection = mysql.connector.connect(
-            host='localhost',  # Host name, default is localhost/127.0.0.1
-            user='root',  # Your mysql root name <---------------- EDIT HERE EDIT HERE EDIT HERE
+            host='przytop.mysql.pythonanywhere-services.com',  # Host name, default is localhost/127.0.0.1
+            user='przytop',  # Your mysql root name <---------------- EDIT HERE EDIT HERE EDIT HERE
             password='xL9rb8X6*X70',  # Enter your password here <---------------- EDIT HERE EDIT HERE EDIT HERE
         )
         return connection
