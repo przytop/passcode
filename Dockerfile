@@ -11,5 +11,4 @@ COPY . /app
 RUN pip install --trusted-host pypi.python.org -r requirements.txt
 
 # Run app when the container launches
-RUN start.py
-#CMD ["python", "start.py"]
+CMD ["python", "start.py", "1"]
