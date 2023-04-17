@@ -11,4 +11,4 @@ COPY . /app
 RUN pip install --trusted-host pypi.python.org -r requirements.txt
 
 # Run the command to start the app
-CMD ["python", "passcode.py"]
+CMD ["python", "start.py"]
