@@ -14,4 +14,4 @@ RUN pip install --trusted-host pypi.python.org -r requirements.txt
 EXPOSE 8000
 
 # Run the command to start the app
-CMD ["python", "start.py"]
+CMD ["python", "start.py", "2", "1"]
