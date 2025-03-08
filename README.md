@@ -1,6 +1,6 @@
 # PassCode - Password Manager & Generator
 
-**PassCode** is a simple password manager application that allows you to securely store and generate passwords for various websites. With its built-in password generator, the app helps you create passwords that meet high security standards and then stores them in an encrypted **MySQL** database.
+**PassCode** is a password manager application that allows you to securely store and generate passwords for various websites. With its built-in password generator, the app helps you create passwords that meet high security standards and then stores them in an encrypted **MySQL** database.
 
 ## Features
 
